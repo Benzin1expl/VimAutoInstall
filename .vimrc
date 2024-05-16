@@ -51,3 +51,5 @@ let g:terminal_ansi_colors = [
     \ '#928374', '#fb4934', '#b8bb26', '#fabd2f', '#83a598', '#d3869b', '#8ec07c', '#ebdbb2',
 \]
 
+inoremap jkl <ESC> 
+
