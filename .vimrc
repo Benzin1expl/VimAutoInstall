@@ -1,5 +1,7 @@
 syntax on
 
+set winheight=38
+
 set fileformat=unix
 set encoding=UTF-8
 
